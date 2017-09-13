@@ -86,8 +86,8 @@ class Cliente
 			     ->execute(
 				    array(
                         $data->Nombre, 
-                        $data->Correo,
                         $data->Apellido,
+                        $data->Correo,
                         $data->Nacionalidad,
                         $data->FechaNacimiento,
                         $data->id
