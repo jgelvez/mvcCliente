@@ -1,5 +1,4 @@
-
-<h1 class="page-header">Clientes</h1>
+<h1>Clientes</h1>
 
 <div class="well well-sm text-right">
     <a class="btn btn-primary" href="?c=Cliente&a=Crud">Nuevo cliente</a>
